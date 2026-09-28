@@ -23,8 +23,6 @@ const rishitha = {
   role:      "Software Developer – AI Systems",
   company:   "Redeem Care PRO",
   building:  "AI clinical pain assessment",
-  stack:     ["React Native", "Node.js", "AWS"],
-  ai:        ["Gemini", "Claude", "LLaMA"],
   education: "M.S. CS, University of Houston",
   published: "Marine Ecology (Wiley), 2025",
   openTo:    ["SWE", "AI/ML", "Data", "Cloud"],
