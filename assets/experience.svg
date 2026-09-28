@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="270" viewBox="0 0 1200 270">
+<defs><linearGradient id="tl" x1="0" x2="1"><stop offset="0" stop-color="#10b981"/><stop offset=".3" stop-color="#a855f7"/><stop offset=".7" stop-color="#3b82f6"/><stop offset="1" stop-color="#ec4899"/></linearGradient></defs>
+<rect x="20" y="43" width="1160" height="2" fill="url(#tl)" opacity=".5"/>
+<g transform="translate(20,44)">
+<circle cx="0" cy="0" r="14" fill="none" stroke="#10b981" stroke-opacity=".6"><animate attributeName="r" values="7;18;7" dur="2.4s" repeatCount="indefinite"/><animate attributeName="stroke-opacity" values=".7;0;.7" dur="2.4s" repeatCount="indefinite"/></circle><circle cx="0" cy="0" r="7" fill="#10b981"/><circle cx="0" cy="0" r="3" fill="#07040d"/>
+</g>
+<g transform="translate(20,0)">
+<text x="0" y="90" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12.5" fill="#9ca3af">Mar 2026 – Now</text>
+<text x="0" y="112" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#f3f4f6">Software Developer – AI</text><text x="0" y="133" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#f3f4f6">Systems</text><text x="0" y="158" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#10b981">Redeem Care PRO</text>
+<text x="0" y="183" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="13" fill="#6b7280">LLM clinical engine · React</text><text x="0" y="201" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="13" fill="#6b7280">Native · AWS</text>
+</g><g transform="translate(260,44)">
+<circle cx="0" cy="0" r="7" fill="#a855f7"/><circle cx="0" cy="0" r="3" fill="#07040d"/>
+</g>
+<g transform="translate(260,0)">
+<text x="0" y="90" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12.5" fill="#9ca3af">Jan 2025 – May 2026</text>
+<text x="0" y="112" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#f3f4f6">Instructional &amp; Research</text><text x="0" y="133" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#f3f4f6">Assistant</text><text x="0" y="158" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#a855f7">University of Houston</text>
+<text x="0" y="183" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="13" fill="#6b7280">Full-stack platform · CNN</text><text x="0" y="201" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="13" fill="#6b7280">research</text>
+</g><g transform="translate(500,44)">
+<circle cx="0" cy="0" r="7" fill="#3b82f6"/><circle cx="0" cy="0" r="3" fill="#07040d"/>
+</g>
+<g transform="translate(500,0)">
+<text x="0" y="90" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12.5" fill="#9ca3af">Apr – Aug 2025</text>
+<text x="0" y="112" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#f3f4f6">Web Development Intern</text><text x="0" y="137" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#3b82f6">Great American Business</text><text x="0" y="156" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#3b82f6">Products</text>
+<text x="0" y="181" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="13" fill="#6b7280">Magento 2 · API integration</text>
+</g><g transform="translate(740,44)">
+<circle cx="0" cy="0" r="7" fill="#8b5cf6"/><circle cx="0" cy="0" r="3" fill="#07040d"/>
+</g>
+<g transform="translate(740,0)">
+<text x="0" y="90" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12.5" fill="#9ca3af">Jan – May 2024</text>
+<text x="0" y="112" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#f3f4f6">Student Research</text><text x="0" y="133" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#f3f4f6">Assistant</text><text x="0" y="158" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#8b5cf6">CVR College of Engineering</text>
+<text x="0" y="183" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="13" fill="#6b7280">Satellite imagery ML · 95%</text><text x="0" y="201" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="13" fill="#6b7280">acc.</text>
+</g><g transform="translate(980,44)">
+<circle cx="0" cy="0" r="7" fill="#ec4899"/><circle cx="0" cy="0" r="3" fill="#07040d"/>
+</g>
+<g transform="translate(980,0)">
+<text x="0" y="90" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12.5" fill="#9ca3af">Apr 2023 – May 2024</text>
+<text x="0" y="112" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#f3f4f6">Software Developer – Web</text><text x="0" y="133" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#f3f4f6">&amp; Digital Systems</text><text x="0" y="158" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#ec4899">Ocean Drilling &amp; Mining</text>
+<text x="0" y="183" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="13" fill="#6b7280">Corporate platform · lead gen</text>
+</g>
+</svg>

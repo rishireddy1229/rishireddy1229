@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150" viewBox="0 0 1200 150">
+<style>.t{opacity:0;animation:up .7s ease-out forwards}@keyframes up{from{opacity:0;transform:translateY(12px)}to{opacity:1}}</style>
+<g class="t" style="animation-delay:0.0s" transform="translate(0,0)">
+<rect width="282" height="150" rx="16" fill="#0f0a1a" stroke="#10b981" stroke-opacity=".3"/>
+<rect x="16" y="0" width="250" height="2" fill="#10b981" opacity=".8"/>
+<text x="24" y="66" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="44" font-weight="900" fill="#10b981">74%</text>
+<text x="24" y="100" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#f3f4f6">AI latency cut</text>
+<text x="24" y="124" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="14" fill="#6b7280">~7s → ~1.8s</text>
+</g><g class="t" style="animation-delay:0.15s" transform="translate(306,0)">
+<rect width="282" height="150" rx="16" fill="#0f0a1a" stroke="#06b6d4" stroke-opacity=".3"/>
+<rect x="16" y="0" width="250" height="2" fill="#06b6d4" opacity=".8"/>
+<text x="24" y="66" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="44" font-weight="900" fill="#06b6d4">10K+</text>
+<text x="24" y="100" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#f3f4f6">Concurrent sessions</text>
+<text x="24" y="124" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="14" fill="#6b7280">load-tested · sub-1s P95</text>
+</g><g class="t" style="animation-delay:0.3s" transform="translate(612,0)">
+<rect width="282" height="150" rx="16" fill="#0f0a1a" stroke="#3b82f6" stroke-opacity=".3"/>
+<rect x="16" y="0" width="250" height="2" fill="#3b82f6" opacity=".8"/>
+<text x="24" y="66" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="44" font-weight="900" fill="#3b82f6">99.9%</text>
+<text x="24" y="100" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#f3f4f6">Crash-free sessions</text>
+<text x="24" y="124" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="14" fill="#6b7280">production mobile app</text>
+</g><g class="t" style="animation-delay:0.44999999999999996s" transform="translate(918,0)">
+<rect width="282" height="150" rx="16" fill="#0f0a1a" stroke="#f59e0b" stroke-opacity=".3"/>
+<rect x="16" y="0" width="250" height="2" fill="#f59e0b" opacity=".8"/>
+<text x="24" y="66" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="44" font-weight="900" fill="#f59e0b">1.7M</text>
+<text x="24" y="100" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#f3f4f6">Events mined</text>
+<text x="24" y="124" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="14" fill="#6b7280">ROC-AUC 0.852</text>
+</g></svg>

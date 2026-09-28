@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#07040d"/><stop offset="1" stop-color="#110822"/></linearGradient>
+<linearGradient id="name" x1="0" x2="1"><stop offset="0" stop-color="#c084fc"/><stop offset=".5" stop-color="#60a5fa"/><stop offset="1" stop-color="#22d3ee"/></linearGradient>
+<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity=".035"/></pattern>
+<filter id="blur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="60"/></filter>
+<clipPath id="clip"><rect width="1200" height="380" rx="24"/></clipPath>
+</defs>
+<style>
+.g1{animation:d1 14s ease-in-out infinite alternate}
+.g2{animation:d2 18s ease-in-out infinite alternate}
+@keyframes d1{to{transform:translate(160px,40px)}}
+@keyframes d2{to{transform:translate(-180px,-30px)}}
+.role{opacity:0}
+.r0{animation:cyc 14.0s linear infinite;animation-delay:0.0s}.r1{animation:cyc 14.0s linear infinite;animation-delay:3.5s}.r2{animation:cyc 14.0s linear infinite;animation-delay:7.0s}.r3{animation:cyc 14.0s linear infinite;animation-delay:10.5s}
+@keyframes cyc{0%{opacity:0;transform:translateY(8px)} 2.00%{opacity:1;transform:translateY(0)} 21.25%{opacity:1;transform:translateY(0)} 25.00%{opacity:0;transform:translateY(-8px)} 100%{opacity:0}}
+.cur{animation:blink 1s steps(1) infinite}
+@keyframes blink{50%{opacity:0}}
+.dot{animation:pulse 2s ease-in-out infinite}
+@keyframes pulse{50%{opacity:.35}}
+</style>
+<g clip-path="url(#clip)">
+<rect width="1200" height="380" fill="url(#bg)"/>
+<rect width="1200" height="380" fill="url(#grid)"/>
+<circle class="g1" cx="260" cy="120" r="170" fill="#7c3aed" opacity=".35" filter="url(#blur)"/>
+<circle class="g2" cx="960" cy="260" r="170" fill="#2563eb" opacity=".30" filter="url(#blur)"/>
+<rect x=".5" y=".5" width="1199" height="379" rx="24" fill="none" stroke="#a855f7" stroke-opacity=".25"/>
+</g>
+<g transform="translate(80,70)">
+  <rect width="380" height="34" rx="17" fill="#a855f7" fill-opacity=".08" stroke="#a855f7" stroke-opacity=".35"/>
+  <circle class="dot" cx="22" cy="17" r="4" fill="#4ade80"/>
+  <text x="36" y="22" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="13" letter-spacing="3" fill="#c084fc" font-weight="600">SOFTWARE DEVELOPER · AI SYSTEMS</text>
+</g>
+<text x="80" y="170" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="58" font-weight="900" fill="#ffffff" letter-spacing="-1.5">RISHITHA REDDY <tspan fill="url(#name)">MEKALA</tspan></text>
+<g font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="22" fill="#d1d5db">
+  <text x="80" y="228" fill="#a855f7">&gt;</text>
+  <text class="role r0" x="104" y="228">Building LLM systems that fail safely.</text><text class="role r1" x="104" y="228">Taking ML from notebook to production.</text><text class="role r2" x="104" y="228">Scaling clinical AI to 10K+ sessions.</text><text class="role r3" x="104" y="228">Shipping full-stack, data &amp; cloud systems.</text>
+</g>
+<text x="80" y="290" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="17" fill="#9ca3af">M.S. Computer Science · University of Houston · Houston, TX</text>
+<text x="80" y="318" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="15" fill="#6b7280">Backend &amp; Mobile · LLM Systems · Machine Learning · Data Engineering · Cloud &amp; DevOps</text>
+</svg>
